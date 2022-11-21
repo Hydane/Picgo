@@ -1,2 +1,2 @@
 # Picgo
-Update the pic 
+Upload and save the pics
